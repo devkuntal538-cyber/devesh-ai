@@ -1,1 +1,9 @@
-.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+.next/
+out/
+node_modules/
+.env.local
+.env
+npm-debug.log*
+.DS_Store
